@@ -25,10 +25,10 @@
 }
 
 .switch-status {
-    color: #ffffff;
+    color: red;
     font-family: "Roboto";
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 1500;
     margin-bottom: 24px;
 }
 
